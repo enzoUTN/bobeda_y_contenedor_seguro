@@ -1,4 +1,4 @@
-# Mi Bóveda y Contenedor Seguro Fundamental
+# Bóveda y Contenedor Seguro Fundamental
 ## Introducción y herramientas
 Para esta entrega se integrará los conceptos de Gestión de identidad con cifrado de datos. Construiremos un entorno donde los accesos estén protegidos y los archivos más sensibles permanezcan inaccesibles, incluso al perder el control físico del dispositivo. 
 Utilizaremos la máquina virtual, que creamos en anteriores entregas, para construir el entorno seguro de nuestros accesos y archivos. Además de incluir herramientas como KeePassXC, Bitwarden y VeraCrypt mostrando como se utilizan estas herramientas y explicando las razones de utilizarlas.
