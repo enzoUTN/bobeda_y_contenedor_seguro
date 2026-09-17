@@ -20,11 +20,11 @@ En la siguiente imagen podemos observar como es la interfaz de KeePassXC en su p
 
 ![KeePassXC](https://github.com/user-attachments/assets/c969ba60-d948-4bdc-91a8-52966e1a912a)
 
-Vamos a crear la base de datos en donde se guardaran los usuarios y contraseñas. Hacemos Click en Create Database. Nos pedira ingresar el nombre de la base de datos y una descrpcion opcional. En este caso la base de datos se llamara ciberseguridad.
+Vamos a crear la base de datos en donde se guardaran los usuarios y contraseñas. Hacemos Click en Create Database. Nos pedira ingresar el nombre de la base de datos y una descripcion opcional. En este caso la base de datos se llamara ciberseguridad.
 
 ![databases](https://github.com/user-attachments/assets/4a0f1b57-2730-4c1f-8e68-5fb2e840ee78)
 
-Mas adelante nos pedira agregar una contraseña a la base de datos. Esta es la contraseña maestra que mencionamos anteriormente. Introducimos una contraseña de tipo frase , en donde sean palabras facil de recordar pero dificil de adivinar por una maquina (ejemplo: CursoDeCiberseguridad2026Github#). En este apartado tambien podemos agregar la proteccion adicional, pero lo vamos a hacer mas adelante.
+Mas adelante nos pedira agregar una contraseña a la base de datos. Esta es la contraseña maestra que mencionamos anteriormente. Introducimos una contraseña de tipo frase, en donde sean palabras facil de recordar pero dificil de adivinar por una maquina (ejemplo: CursoDeCiberseguridad2026Github#). En este apartado tambien podemos agregar la proteccion adicional, pero lo vamos a hacer mas adelante. Importante no olvidar la contraseña maestra. 
 
 ![databases password](https://github.com/user-attachments/assets/0def401e-407e-451c-9f63-67158aa33c60)
 
@@ -36,12 +36,17 @@ Proseguimos a cargar las credenciales y generaremos las contraseñas desde la mi
 
 En la anterior imagen observamos la ventana para agregar una credencial y ademas al lado del password hay un icono de extension en donde nos permite generar una contraseña con distintos parametros (cantidad de caracteres, longitud, tipo de caracter, etc). En este caso las contraseñas van a tener una longitud de 20 y de tipo ASCII. Cabe aclarar que la contraseña de la imagen es solo de ejemplo, no es la contraseña real que vamos a ingresar, ya que nunca se debe mostrar publicamente una contraseña por mas segura que sea. 
 
-Finalmente agregamos las 3 credenciales de ejemplo con las contraseñas generadas por la misma aplicacion. 
+Agregamos las 3 credenciales de ejemplo con las contraseñas generadas por la misma aplicacion. 
 
 ![credenciales](https://github.com/user-attachments/assets/ab433131-ed27-4e4e-ad03-5de9d1dcd370)
 
+De esta forma vamos a ir agregando las credenciales que necesitamos o si requerimos generar una nueva credencial, podemos utilizar el generador nativo que trae KeepassXC. 
 
+Finalmente vamos a agregar una proteccion adicional: Vamos a Databases -> Databases Settings -> Security -> Add addition Protection -> Add Key File. Hacemos Click en generar y nos pedira guardar el archivo en una carpeta. De esta forma se genera un archivo adicional, que el gestor requerira para su uso y acceso.   
 
+![credenciales keyfile](https://github.com/user-attachments/assets/c951e839-4dd5-48e5-bc3d-a032509a0bd9)
+
+### Bitwarden
 
 
 
