@@ -10,3 +10,7 @@ En el caso de Bitwarden vamos a usar la opción en la nube, agregando una extens
 Estas dos herramientas mencionadas son gestores de contraseñas. Actúan como una caja fuerte guardando todas las “llaves” de acceso, como por ejemplo: la contraseña de tu homeBanking o de tu cuenta de Google. El gestor de contraseña requiere una contraseña maestra para acceder a la "caja fuerte". Esta misma debería ser una frase de contraseña, es decir un conjunto de palabras fácil de recordar, pero imposible de adivinar por una máquina (por ejemplo: "CursoDeCiberseguridad2026Github#"). Otra ventaja que nos da el gestor de contraseñas es que nos puede generar de manera automática contraseñas mas seguras, sin que tengamos que pensar algun patron seguro. 
 
 La diferencia entre las dos herramientas es que Bitwarden se sincroniza en la nube, pudiendo ser utilizada en cualquier dispositivo (computadora, smartphone o tablet) de manera sencilla. En cambio, KeePassXC no usa la nube, sino que crea un archivo en el dispositivo que contiene una base de datos con las contraseñas, y para poder pasar ese gestor de contraseñas a otro dispositivo deberíamos mover ese archivo. La ventaja de este último es que hay menos riesgos de brechas en servidores externos. 
+
+### KeePassXC
+
+### Bitwarden
