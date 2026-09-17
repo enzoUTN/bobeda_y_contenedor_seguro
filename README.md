@@ -11,6 +11,8 @@ Estas dos herramientas mencionadas son gestores de contraseñas. Actúan como un
 
 La diferencia entre las dos herramientas es que Bitwarden se sincroniza en la nube, pudiendo ser utilizada en cualquier dispositivo (computadora, smartphone o tablet) de manera sencilla. En cambio, KeePassXC no usa la nube, sino que crea un archivo en el dispositivo que contiene una base de datos con las contraseñas, y para poder pasar ese gestor de contraseñas a otro dispositivo deberíamos mover ese archivo. La ventaja de este último es que hay menos riesgos de brechas en servidores externos. 
 
+Aclaración: Todas las contraseñas mostradas en las capturas son solo de ejemplo, con el objetivo de mostrar el formato para tener una contraseña lo menos vulnerable posible. Nunca hay que mostrar la contraseña, ni en capturas ni en mensajes. 
+
 ### KeePassXC
 Descargamos e instalamos KeePassXC desde la página oficial para el sistema operativo utilizado (en este caso Linux).
 
@@ -95,10 +97,11 @@ Introducimos la contraseña maestra y nos mostrara un qr que tenemos que escanea
 
 ![bitwarden extend2ssss2s](https://github.com/user-attachments/assets/c988ed12-798e-46cc-8295-b1c1f3ff6c54)
 
-De esta forma, queda vinculada la App MFA con el gestor de contraseñas. 
+De esta forma, queda vinculada la App Authenticator con el gestor de contraseñas. 
 
 ![bitwarden extend2ssss2s](https://github.com/user-attachments/assets/1270cf51-6e29-4fbf-bc08-7e2af6aae8f9)
 
+## 2 - Creación del Contenedor Cifrado con VeraCrypt
 
 
 
