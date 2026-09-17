@@ -85,9 +85,22 @@ Hacemos click en use this password -> Save. Así con las otras 3 credenciales. C
 
 ![bitwarden extend2sss2s](https://github.com/user-attachments/assets/9236a009-422d-478e-8524-53c270aa6f4c)
 
-Finalmente, vamos a agregar un método de protección adicional. En este caso vamos a activar el MFA usando la app Google Authenticator. Esto funciona de la siguiente forma: cuando un usuario quiera ingresar al baúl de contraseñas, no solo le va a pedir la contraseña maestra, sino también un código de verificación que se va a ir actualizando cada cierto tiempo en la app de Google Authenticator. De esta forma le estamos dando una doble capa de seguridad a nuestro gestor de contraseñas.
+Finalmente, vamos a agregar un método de protección adicional. En este caso vamos a activar la MFA usando la app Google Authenticator. Esto funciona de la siguiente forma: cuando un usuario quiera ingresar al baúl de contraseñas por primera vez en el dispositivo, no solo le va a pedir la contraseña maestra, sino también un código de verificación que se va a ir actualizando cada cierto tiempo en la app de Google Authenticator. De esta forma le estamos dando una doble capa de seguridad a nuestro gestor de contraseñas.
 
-Para eso entramos a la página oficial de Bitwarden -> Iniciamos sesión con el usuario y contraseña maestra -> 
+Para eso entramos a la página oficial de Bitwarden -> Iniciamos sesión con el usuario y contraseña maestra -> Settings -> Security -> Two-step Login y seleccionamos la opcion Authenticator App.  
+
+![bitwarden extend2ssss2s](https://github.com/user-attachments/assets/966b4416-a8ad-448c-95b6-7138a1c7e099)
+
+Introducimos la contraseña maestra y nos mostrara un qr que tenemos que escanear con la aplicacion deseada, en este caso Google Authenticator. Confirmamos agregando un codigo de 6 digitos (que nos otorga Google Authenticator) en Bitwarden. 
+
+![bitwarden extend2ssss2s](https://github.com/user-attachments/assets/c988ed12-798e-46cc-8295-b1c1f3ff6c54)
+
+De esta forma, queda vinculada la App MFA con el gestor de contraseñas. 
+
+![bitwarden extend2ssss2s](https://github.com/user-attachments/assets/1270cf51-6e29-4fbf-bc08-7e2af6aae8f9)
+
+
+
 
 
 
