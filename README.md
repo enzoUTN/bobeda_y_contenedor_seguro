@@ -32,6 +32,18 @@ Finalmente nos genera un archivo .kbdx que guardaremos en una carpeta segura.
 
 Proseguimos a cargar las credenciales y generaremos las contraseñas desde la misma aplicacion. En este caso vamos simular 3 credenciales:
 
+![databases password](https://github.com/user-attachments/assets/f29395c5-5a14-4d39-af72-4917ccb0fdfd)
+
+En la anterior imagen observamos la ventana para agregar una credencial y ademas al lado del password hay un icono de extension en donde nos permite generar una contraseña con distintos parametros (cantidad de caracteres, longitud, tipo de caracter, etc). En este caso las contraseñas van a tener una longitud de 20 y de tipo ASCII. Cabe aclarar que la contraseña de la imagen es solo de ejemplo, no es la contraseña real que vamos a ingresar, ya que nunca se debe mostrar publicamente una contraseña por mas segura que sea. 
+
+Finalmente agregamos las 3 credenciales de ejemplo con las contraseñas generadas por la misma aplicacion. 
+
+![credenciales](https://github.com/user-attachments/assets/ab433131-ed27-4e4e-ad03-5de9d1dcd370)
+
+
+
+
+
 
 
 
