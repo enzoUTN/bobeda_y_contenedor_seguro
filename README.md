@@ -12,4 +12,32 @@ Estas dos herramientas mencionadas son gestores de contraseñas. Actúan como un
 La diferencia entre las dos herramientas es que Bitwarden se sincroniza en la nube, pudiendo ser utilizada en cualquier dispositivo (computadora, smartphone o tablet) de manera sencilla. En cambio, KeePassXC no usa la nube, sino que crea un archivo en el dispositivo que contiene una base de datos con las contraseñas, y para poder pasar ese gestor de contraseñas a otro dispositivo deberíamos mover ese archivo. La ventaja de este último es que hay menos riesgos de brechas en servidores externos. 
 
 ### KeePassXC
-![nombre de la imagen](url)
+Descargamos e instalamos KeePassXC desde la pagina oficial para el sistema operativo utilizado (en este caso linux).
+
+![Descarga KeePassXC](https://github.com/user-attachments/assets/78a6d929-5e88-4356-9c85-08102fa3e9b9)
+
+En la siguiente imagen podemos observar como es la interfaz de KeePassXC en su primer inicio.
+
+![KeePassXC](https://github.com/user-attachments/assets/c969ba60-d948-4bdc-91a8-52966e1a912a)
+
+Vamos a crear la base de datos en donde se guardaran los usuarios y contraseñas. Hacemos Click en Create Database. Nos pedira ingresar el nombre de la base de datos y una descrpcion opcional. En este caso la base de datos se llamara ciberseguridad.
+
+![databases](https://github.com/user-attachments/assets/4a0f1b57-2730-4c1f-8e68-5fb2e840ee78)
+
+Mas adelante nos pedira agregar una contraseña a la base de datos. Esta es la contraseña maestra que mencionamos anteriormente. Introducimos una contraseña de tipo frase , en donde sean palabras facil de recordar pero dificil de adivinar por una maquina (ejemplo: CursoDeCiberseguridad2026Github#). En este apartado tambien podemos agregar la proteccion adicional, pero lo vamos a hacer mas adelante.
+
+![databases password](https://github.com/user-attachments/assets/0def401e-407e-451c-9f63-67158aa33c60)
+
+Finalmente nos genera un archivo .kbdx que guardaremos en una carpeta segura. 
+
+Proseguimos a cargar las credenciales y generaremos las contraseñas desde la misma aplicacion. En este caso vamos simular 3 credenciales:
+
+
+
+
+
+
+
+
+
+
