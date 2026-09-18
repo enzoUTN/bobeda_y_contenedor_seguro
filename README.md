@@ -105,14 +105,38 @@ De esta forma, queda vinculada la App Authenticator con el gestor de contraseña
 
 VeraCryp es una herramienta de cifrado de datos de codigo abierto. Sirve para cifrar los discos y datos en tiempo real. Desde la máquina virtual, vamos a descargar e instalar el programa desde la página oficial para Linux. 
 
-Una vez instalada proseguimos a la creacion de un contenedor cifrado. Esto nos sirve para proteger la información que consideremos importante y confidencial para nosotros, como el archivo que contiene la base de datos de KeePassXC. Quien quiera ver el contenido del archivo sin la contraseña de cifrado, solo va a poder ver archivos corruptos o ilegibles. 
+Una vez instalada proseguimos a la creacion de un contenedor cifrado. Esto nos sirve para proteger la información que consideremos importante y confidencial para nosotros, como el archivo que contiene la base de datos de KeePassXC. Quien quiera ver el contenido del archivo sin la contraseña de cifrado, solo va a poder ver archivos corruptos o ilegibles.
 
+Una vez instalado el programa, vamos a crear un volumen nuevo con las siguientes características: 
+Tamaño: Asígnale 100 MB.
+Cifrado: Algoritmos por defecto (AES y SHA-512) pero observa las opciones.
+Contraseña: Usamos frase de contraseña distinta a la de el gestor.
 
+![bitwarden extssend2ssss2s](https://github.com/user-attachments/assets/92111c3e-55b8-4be0-8914-0b004a8e89a0)
 
+![bitwarden extend2ssss2ss](https://github.com/user-attachments/assets/2e60992a-08ca-4f6c-b2c5-7a1c5fec5fec)
 
+![bitwarden extend2sszss2ss](https://github.com/user-attachments/assets/882ae246-17b0-4afa-8c1d-466ddee848a6)
 
+![https://github.com/user-attachments/assets/882ae246-17b0-4afa-8c1d-466ddee848a6](https://github.com/user-attachments/assets/667bf379-499b-4076-98e3-5ca870db0b73)
 
+![ciberseguridad 1](https://github.com/user-attachments/assets/667bf379-499b-4076-98e3-5ca870db0b73)
 
+![bitwarden extend2ssssss2ss](https://github.com/user-attachments/assets/1f938414-4d5f-4755-ab44-c349c00a6198)
+
+![bitwarden extend2ssssss2ssA](https://github.com/user-attachments/assets/5a10b598-7d7a-4b71-953a-5353f964dd5d)
+
+![bitwarden extend2aassssss2ssA](https://github.com/user-attachments/assets/74bc6d1c-7d33-49b6-b8e9-2a68d2174359)
+
+![cripto](https://github.com/user-attachments/assets/f3430fa6-623a-4c6c-a81e-d26f7f56d9c0)
+
+![cripto2](https://github.com/user-attachments/assets/437b7cc0-7b6a-4a19-ba03-f33fb56fbf75)
+
+Formateo: Movemos el cursor aleatoriamente dentro de la ventana para aumentar la fuerza criptográfica (entropía) y finaliza el proceso.
+
+![cripto23](https://github.com/user-attachments/assets/b59d2e8a-2f3c-4ab9-8224-74700960e2d1)
+
+Este proceso creara un archivo .hc.
 
 
 
