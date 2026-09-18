@@ -103,12 +103,9 @@ De esta forma, queda vinculada la App Authenticator con el gestor de contraseña
 
 ## 2 - Creación del Contenedor Cifrado con VeraCrypt
 
-VeraCryp es una herramienta de cifrado de datos de codigo abierto. Sirve para cifrar los discos y datos en tiempo real.
-
-Desde la maquina virtual, vamos a descargar e instalar el programa desde la pagina oficial para linux. 
+VeraCryp es una herramienta de cifrado de datos de codigo abierto. Sirve para cifrar los discos y datos en tiempo real. Desde la máquina virtual, vamos a descargar e instalar el programa desde la página oficial para Linux. 
 
 Una vez instalada proseguimos a la creacion de un contenedor cifrado. Esto nos sirve para proteger la información que consideremos importante y confidencial para nosotros, como el archivo que contiene la base de datos de KeePassXC. Quien quiera ver el contenido del archivo sin la contraseña de cifrado, solo va a poder ver archivos corruptos o ilegibles. 
-
 
 
 
