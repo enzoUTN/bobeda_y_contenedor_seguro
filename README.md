@@ -138,11 +138,26 @@ Formateo: Movemos el cursor aleatoriamente dentro de la ventana para aumentar la
 
 Este proceso creara un archivo .hc.
 
+![cripto23](https://github.com/user-attachments/assets/0001f00f-cd58-4ba3-a7da-069be49655d5)
 
+## 3 - Uso y Documentación
 
+Vamos a montar el contenedor creado (.hc) seleccionando alguna unidad (en Windows Z: o H: y en Linux 1 o 2) y seleccionando el archivo creado anteriormente. Al hacer click en mount nos pedirá la contraseña que introducimos en el proceso de crear un nuevo volumen. 
 
+![cripto2ww3](https://github.com/user-attachments/assets/ffdc9286-c908-44ca-804a-9daf47ab0e90)
 
+![cripto2ss3](https://github.com/user-attachments/assets/16f42157-7028-4c49-9c02-dcdd14e5a248)
 
+Una vez montado nos aparece una nueva unidad en donde podemos ingresar como si fuera una carpeta.
 
+![cripto2s3](https://github.com/user-attachments/assets/0a262162-be53-4a25-8c1d-7ab771735af5)
 
+Dentro de la unidad creamos el archivo llamado aprendizajes.txt, en donde agregaremos 3 aprendizajes que adquirimos a lo largo de este ejercicio:
 
+![crsiptoqq23](https://github.com/user-attachments/assets/719e735b-9487-4ec5-8b9f-765e9941a47e)
+
+Una vez guardado el archivo, ingresaremos a VeraCrypt, desmontaremos la unidad y desaparecerá el archivo de nuestro explorador. 
+
+![criptsaoaaqq23](https://github.com/user-attachments/assets/e896563c-2019-479a-b43a-8f5bad986301)
+
+![criptsaoqq23](https://github.com/user-attachments/assets/f7189dc8-1359-42cf-9ff9-ebe205b983c3)
